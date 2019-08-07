@@ -8,7 +8,7 @@ The data set also contains customer demographics (age, gender, marital status, c
 (product_id and product category) and Total purchase_amount from last month.
 
 
-## Data ## variable
+## Data variables
 |Variable				    |Definition                                         |
 |---------------------------|---------------------------------------------------|
 |User_ID					|User ID											|
